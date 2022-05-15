@@ -1,0 +1,21 @@
+
+.some-img{
+    width: 50%; 
+    border-radius: 50px;
+  }
+  body{
+background:rgba(173, 165, 196, 0.17);
+  }
+  .container{max-width: 1180px;
+  }
+  .content{background-color: white; padding: 25px; 
+  }
+  .uppermenu{ border-bottom: 6px solid  rgb(2, 113, 113);  
+  }
+  .following{background-color: rgba(173, 165, 196, 0.17); border-bottom: 6px solid rgb(2, 113, 113)
+   }
+  a {text-decoration: none;}
+  .unline{color: gray;}
+  .unline:hover{color: black; text-decoration: underline dotted;}
+  .colorblack{color: black;}
+  .colorblack:hover{color: black; text-decoration: underline dotted;}
